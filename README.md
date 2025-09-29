@@ -2,9 +2,11 @@
 
 Minimal, customizable Typst template for UTBM report submissions.
 
-> **Version:** 0.1.0
-> **License:** MIT
-> **Repository:** [https://github.com/langonne/utbm-report](https://github.com/langonne/utbm-report)
+> [!NOTE]
+> **Institution & logo attribution**
+> The template uses the **Université de Technologie de Belfort-Montbéliard (UTBM)** logo.
+> See [https://www.utbm.fr](https://www.utbm.fr) for the institution’s official website.
+> Use of this logo is subject to UTBM’s own policies, users should verify the authorization for their context.
 
 ## Overview
 
